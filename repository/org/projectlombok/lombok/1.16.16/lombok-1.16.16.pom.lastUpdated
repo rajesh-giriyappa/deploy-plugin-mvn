@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 11 21:15:11 GMT+08:00 2019
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1554988511249
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.projectlombok\:lombok\:pom\:1.16.16 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
